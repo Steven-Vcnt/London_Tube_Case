@@ -1,0 +1,4 @@
+# London_Tube_Case
+Analysis of London Underground core network
+
+In this paper, I will study data from London Underground extracted from the following Website: London underground passengers count data The data provided will help me to answer the following question: How to optimize investments and reduce costs of the London Underground Network? To conduct this analysis we will analyze passenger statistics recorded from the underground ticketing system. The data is provided from 2007 to 2017 which will help us to look at the evolution of the number of passengers. We can conclude from the Analysis two different groups of Boroughs. On one hand the London underground core network with Lambeth, the City of London, City of Westminster, Lambeth, Newham, Southwark, and Tower Hamlets. On the other hand, we have identified Boroughs Outside the London underground core network with Three Rivers, Chiltern, Watford, and Epping Forest.
